@@ -1,10 +1,12 @@
 # Outline VPN Client Manager for Personals
 
-![Main Page](images/my_image.png)
+![Main Page](screenshots/main.png)
 
 ## Overview
 
 This Python desktop application, built using PyQt6, is designed to automate the process of sending new keys, updating servers, and checking the status of servers. Whether you're managing authentication keys or ensuring server health, this tool streamlines repetitive tasks, saving time and enhancing efficiency. This project is intented the users who have lots of outline clients.
+
+![Update Client](screenshots/update.png)
 
 ## Key Features
 
