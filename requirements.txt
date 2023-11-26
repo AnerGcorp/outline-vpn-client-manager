@@ -1,0 +1,17 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+dateutils==0.6.12
+idna==3.6
+psutil==5.9.6
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+PyQt6==6.6.0
+PyQt6-Qt6==6.6.0
+PyQt6-sip==13.6.0
+python-dateutil==2.8.2
+pytz==2023.3.post1
+requests==2.31.0
+requests-toolbelt==1.0.0
+six==1.16.0
+urllib3==2.1.0
