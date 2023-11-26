@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "name": "test 2",
+    "key": [],
+    "mail": "test",
+    "device": 5,
+    "isSent": false
+  },
+  {
+    "_id": 2,
+    "name": "Nuryagdy",
+    "key": [],
+    "mail": "nuryagdy14.07.1998@gmail.com",
+    "device": 1,
+    "isSent": false
+  },
+  {
+    "_id": 3,
+    "name": "test",
+    "key": [],
+    "mail": "dasfs",
+    "device": 1,
+    "isSent": false
+  },
+  {
+    "_id": 4,
+    "name": "TESt it out",
+    "key": [],
+    "mail": "test@gmail.ru",
+    "device": 1,
+    "isSent": false
+  }
+]

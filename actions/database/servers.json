@@ -1,0 +1,16 @@
+[
+  {
+    "ger-4": {
+      "apiUrl": "https://34.97.7.154:35154/FkF2pDS2XW5BAxsvTjpGfw",
+      "certSha256": "755859EA4CEE72186F6164960565923D34A36A64FC1ECB40704140665F21466C"
+    },
+    "status": true
+  },
+  {
+    "iowa-1": {
+      "apiUrl": "https://34.97.7.154:35154/FkF2pDS2XW5BAxsvTjpGfw",
+      "certSha256": "755859EA4CEE72186F6164960565923D34A36A64FC1ECB40704140665F21466C"
+    },
+    "status": true
+  }
+]
